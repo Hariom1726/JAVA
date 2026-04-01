@@ -166,3 +166,7 @@ The Project demonstrates the implementation of file handaling operations in java
 It helps in understanding how java interact with file and how data can be managed efficiently using file handling techniques.
 
 ##Output
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6ff82ad6-e5b9-4cc6-87df-2c3eb6d8c8e8" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7ce48956-2bd4-4031-acb7-c77b8e98b83f" />
